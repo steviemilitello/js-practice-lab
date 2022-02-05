@@ -2,10 +2,6 @@
 
 # JS Practice
 
-## Prerequisites
-
-- [js](https://git.generalassemb.ly/ga-wdi-boston/js)
-
 ## Instructions
 
 1. Fork and clone this repository.
