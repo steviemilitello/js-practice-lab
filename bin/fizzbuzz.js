@@ -1,6 +1,8 @@
 // Fizzbuzz
 
-// Open the file in this js-practice repo in the bin folder named fizzbuzz.js
+// Test your work by running the command: 
+// node bin/fizzbuzz.js
+//
 // Write a short program that prints each number from 1 to 100 on a new line.
 // For each multiple of 3, print “Fizz” instead of the number.
 // For each multiple of 5, print “Buzz” instead of the number.
